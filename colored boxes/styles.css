@@ -1,0 +1,28 @@
+body{
+background-color:#f4f4f4;
+}
+h1 {
+  text-align: center;
+}
+.color-box{
+  width:100px;
+  height:100px;
+  display:inline-block;
+  border-radius:5px;
+}
+
+.color1{
+  background-color:#7FFF00;
+}
+.color2{
+   background-color:rgb(127,0,127);
+}
+.color3{
+   background-color:orange;
+}
+.color4{
+   background-color:hsl(75,50%,25%);
+}
+.color5{
+  background-color:red;
+}
